@@ -22,7 +22,12 @@ class provatinaActions extends sfActions
 
   public function executeVeure(sfWebRequest $request)
   {
+    //$oResposta = $this->getResponse();
+    //$oResposta->setTitle('Pàgina d\'exemple');
+
     $aAvui = getdate();
     $this->hora = $aAvui['hours'];
+
+    $this->total = 100;
   }
 }

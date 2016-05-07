@@ -1,0 +1,24 @@
+veureSuccess:
+  http_metas:
+    content-type: text/html
+
+  metas:
+    title: veureSuccess - VEURE
+
+  stylesheets: []
+
+  javascripts: []
+
+  has_layout:     true
+  layout:         layout
+
+all:
+  stylesheets: [main.css]
+  metas:
+    title: all - VEURE
+    description: Symfony project - PROVES
+    keywords: symfony, project
+    language: ca
+
+  has_layout:     true
+  layout:         layout

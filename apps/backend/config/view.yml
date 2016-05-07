@@ -6,7 +6,7 @@ default:
     content-type: text/html
 
   metas:
-    title:        FRONTEND - symfony project
+    title:        BACKEND - symfony project
     #description:  symfony project
     #keywords:     symfony, project
     #language:     en
